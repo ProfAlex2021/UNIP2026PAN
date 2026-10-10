@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="Pedidos.Validacao.Testes/Pedidos.Validacao.Testes.csproj" />
+  <Project Path="Pedidos.Validacao/Pedidos.Validacao.csproj" />
+</Solution>
