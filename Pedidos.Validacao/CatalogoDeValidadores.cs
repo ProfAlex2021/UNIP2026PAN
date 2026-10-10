@@ -119,7 +119,7 @@ public sealed class CatalogoDeValidadores
     }
 }
 
-[ValidadorRegistrado("criar‑pedido")]
+[ValidadorRegistrado("criar-pedido")]
 public sealed class ValidadorRegistradoDeCriacao : IValidadorRegistrado
 {
     private readonly ValidadorDeComandos _validador = new();
